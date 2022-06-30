@@ -1,1 +1,1 @@
-# klaytn-testnet-faucet
+# Klaytn Testnet Faucet
